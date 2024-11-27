@@ -33,7 +33,7 @@ function Sidebar({ children }) {
               </svg>
             </button>
             <Link
-              href="/dashboard"
+              href="/"
               className="flex items-center justify-between mr-4"
             >
               <img
